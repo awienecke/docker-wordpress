@@ -9,5 +9,6 @@ WP_DB_HOST: <The ip, hostname, or service name of the sql database>
 WP_DB_USER: <The preconfigured user that wordpress is to connect as>
 WP_DB_NAME: <The name of the database that wordpress will use>
 WP_DB_PASS: <The password for the user above>
+WP_TLS: <Set to "true" for tls to function, anything else is assumed false>
 ```
 
