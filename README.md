@@ -1,4 +1,4 @@
-# wordpress
+# docker-wordpress
 
 A better title might have been "wordpress for kubernetes" as this grants easy persistence in a kubernetes environment.
 
