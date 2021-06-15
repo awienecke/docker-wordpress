@@ -1,5 +1,7 @@
 # wordpress
 
+A better title might have been "wordpress for kubernetes" as this grants easy persistence in a kubernetes environment.
+
 This is designed to function as a full WP install based on alpine linux, it was designed for deployment into kubernetes, specifically k3s. It will, if it detects no wp-admin directory in /var/www/wordpress, unpack a local copy into that location, it will then expect the following environment configuration:
 
 ```
